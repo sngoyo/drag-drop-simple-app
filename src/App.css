@@ -1,0 +1,53 @@
+
+ul {
+  list-style: none;
+  padding-left: 10rem;
+}
+
+
+.box {
+  width: 10rem;
+  height: 5rem;
+  border-radius: 10px;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.list_1 {
+ /* background-color: white;*/
+  width: 20rem;
+
+}
+
+.list_2 {
+ /* background-color: grey;*/
+  list-style: none;
+  margin-left:27rem;
+  margin-top: -19rem;
+
+}
+
+.first {
+  background: blue;
+}
+
+.second {
+  background: yellowgreen;
+}
+
+.third {
+  background: red;
+}
+
+
+.secfirst {
+  background: green;
+}
+
+.secsecond {
+  background: purple;
+}
+
+.secthird {
+  background: palevioletred;
+}
